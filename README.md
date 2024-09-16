@@ -3,7 +3,7 @@
  The compiler is written in C++ for now, but the goal is for Neutrino to become self-hosted in the future.
 
 
-# Building
+## Building
 Requires `nasm` and `ld` on a Linux operating system.
 ```
 git clone <https://github.com/orosmatthew/hydrogen-cpp>
