@@ -1,0 +1,3 @@
+/mnt/e/Projects/Prism/cmake-build-debug/CMakeFiles/prism.dir
+/mnt/e/Projects/Prism/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/Projects/Prism/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Projects/Prism/build",
+  "command": "E:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\prism.dir\\src\\main.cpp.obj -c E:\\Projects\\Prism\\src\\main.cpp",
+  "file": "E:/Projects/Prism/src/main.cpp"
+}
+]
